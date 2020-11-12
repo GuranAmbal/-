@@ -1,1 +1,1 @@
-# -
+В проекте использую SQLite3. Входная точка index.php, в котором делается подключение application/install.php, в application/install.php подключается config,model,view,controller. Из билиотек на js использовал bootstrap 4, jquery, fansybox.js. 
