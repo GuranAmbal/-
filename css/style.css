@@ -1,0 +1,23 @@
+
+header{
+  height: 100px;
+  background-color: #ddd;
+}
+.header_h2{
+  padding: 20px;
+}
+
+.container{
+  min-height: 600px;
+  padding-top:60px;
+}
+.fakeimg{
+  width: 200px;
+height: 200px;
+background-color: #ddd;
+
+}
+#inline{
+  padding: 10px;
+    margin-bottom: 10px;
+}
